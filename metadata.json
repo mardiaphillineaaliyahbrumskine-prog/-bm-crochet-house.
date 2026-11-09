@@ -1,0 +1,6 @@
+{
+  "name": "B & M Crochet House",
+  "description": "B & M Crochet House - Handmade with love, crafted with care. Elegant artisanal crochet wearables, bags, home decor, and bespoke custom orders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
